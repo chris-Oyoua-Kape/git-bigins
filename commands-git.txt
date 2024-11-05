@@ -1,0 +1,12 @@
+
+# cloner un repository
+https://github.com/chrislaplateforme/git-bigins.gi
+
+
+# Commande pour push
+git add .
+git commit -m "Nom suivi du commit"
+git push
+
+# Commande pour pull
+git pull origin main
