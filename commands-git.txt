@@ -1,4 +1,4 @@
-
+commande rep
 # cloner un repository
 https://github.com/chrislaplateforme/git-bigins.gi
 
